@@ -1,0 +1,13 @@
+name = "JuliaCologne21"
+authors = ["Carsten Bauer <crstnbr@gmail.com>"]
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Hwloc = "0e44f5e4-bd66-52a0-8798-143a42290a1d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+julia = "1"
