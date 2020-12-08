@@ -4,10 +4,15 @@ authors = ["Carsten Bauer <crstnbr@gmail.com>"]
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
 DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Hwloc = "0e44f5e4-bd66-52a0-8798-143a42290a1d"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 
 [compat]
 julia = "1"
