@@ -8,8 +8,6 @@ In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
 ## Preparing for the workshop
 
-[Erste Schritte Video der Computerphysik](https://vimeo.com/showcase/6910448/video/404279614)
-
 ### Software and workshop materials
 
 What you need (in short):
@@ -31,7 +29,7 @@ cd JuliaNRW21
 julia install.jl
 ```
 
-If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/). Otherwise feel free to write me an email!
+If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/) or [Erste Schritte Video der Computerphysik](https://vimeo.com/showcase/6910448/video/404279614). Otherwise feel free to write me an email!
 
 **Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Sunday evening. (You can always delete your local copy and redownload/`git pull`.)
 
