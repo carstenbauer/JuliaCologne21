@@ -1,6 +1,6 @@
 # Julia Workshop - Cologne 21
 
-<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaCologne21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/poster/JuliaCologne21_poster.png" width=200px></a>
+<a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/poster/JuliaCologne21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/poster/JuliaCologne21_poster.png" width=200px></a>
 
 An online Julia workshop at the Institute of Theoretical Physics of the University of Cologne which takes place in March 2021 (16th - 19th).
 
