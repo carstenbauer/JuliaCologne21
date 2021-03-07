@@ -17,13 +17,13 @@ What you need (in short):
 
 If you have taken the [Computerphysik](http://www.thp.uni-koeln.de/trebst/Lectures/2020-CompPhys.shtml) last term you should already have a local Julia 1.4 installation. While this version *should* be fine for the workshop (I haven't tested it explicitly) you should install **Julia version 1.5** instead. Simply go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system. (You can keep or uninstall your Julia 1.4 installation afterwards).
 
-Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages. The simplest way to install everything is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
+Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages. The simplest way to install everything is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1). If you already have Jupyter, for example because you've taken the Computerphysik last term, this procedure will only install the necessary Julia packages and preserve your Jupyter instance.
 
-Alternatively, if you are familiar with the command line of your OS, you can use the following terminal commands (you need to have `git` and `julia` available):
+As an alternative to the WorkshopWizard, if you are familiar with the command line of your OS, you can use the following terminal commands (you need to have `git` and `julia` available):
 
 ```bash
-git clone https://github.com/crstnbr/JuliaNRW21
-cd JuliaNRW21
+git clone https://github.com/crstnbr/JuliaCologne21
+cd JuliaCologne21
 julia install.jl
 ```
 
@@ -33,7 +33,7 @@ If you are facing any issues you can check out [this troubleshooting section](ht
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
+<a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
 
 ## Run the workshop materials in the browser (Beta)
 
