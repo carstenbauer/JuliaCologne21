@@ -8,8 +8,6 @@ In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
 ## Preparing for the workshop
 
-### Software and workshop materials
-
 What you need (in short):
   * [Julia 1.5](https://julialang.org/downloads/)
   * [Jupyter](https://jupyter.org) + [IJulia.jl](https://github.com/JuliaLang/IJulia.jl)
