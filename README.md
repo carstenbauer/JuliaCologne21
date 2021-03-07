@@ -2,11 +2,13 @@
 
 <a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/poster/JuliaCologne21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/poster/JuliaCologne21_poster.png" width=200px></a>
 
-An online Julia workshop at the Institute of Theoretical Physics of the University of Cologne which takes place in March 2021 (16th - 19th).
+An online Julia workshop at the Institute of Theoretical Physics of the University of Cologne which takes place in March 2021 (15th - 18th).
 
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
 ## Preparing for the workshop
+
+[Erste Schritte Video der Computerphysik](https://vimeo.com/showcase/6910448/video/404279614)
 
 ### Software and workshop materials
 
@@ -16,9 +18,12 @@ What you need (in short):
   * The workshop materials, i.e. this GitHub repository
 
 #### How to get everything
-The workshop uses the latest **Julia version 1.5**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
 
-Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The simplest way to install everything is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1). Alternatively, you can use the following terminal commands (you need to have `git` and `julia` available):
+If you have taken the [Computerphysik](http://www.thp.uni-koeln.de/trebst/Lectures/2020-CompPhys.shtml) last term you should already have a local Julia 1.4 installation. While this version *should* be fine for the workshop (I haven't tested it explicitly) you should install **Julia version 1.5** instead. Simply go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system. (You can keep or uninstall your Julia 1.4 installation afterwards).
+
+Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages. The simplest way to install everything is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1).
+
+Alternatively, if you are familiar with the command line of your OS, you can use the following terminal commands (you need to have `git` and `julia` available):
 
 ```bash
 git clone https://github.com/crstnbr/JuliaNRW21
@@ -26,18 +31,14 @@ cd JuliaNRW21
 julia install.jl
 ```
 
-If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/). Otherwise I will try to help you get ready for the workshop on Monday!
+If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/). Otherwise feel free to write me an email!
 
-**Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Monday. (You can always delete your local copy and redownload/`git pull`.)
-
-### Julia syntax
-
-To get the most out of the workshop, make yourself familiar with the basic Julia syntax (variables, loops, functions, etc.) in case you haven't used Julia before. Skimming through the [Manual section](https://docs.julialang.org/en/v1/manual/variables/) of the Julia documentaion is certainly a good idea. Alternatively, you can check out [this](https://nbviewer.jupyter.org/url/www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2020/filled_out_template_01_variablen_datenstrukturen.ipynb) and [this](https://nbviewer.jupyter.org/url/www.thp.uni-koeln.de/trebst/Lectures/CompPhys-2020/filled_out_template_02_funktionen_schleifen_verzweigungen.ipynb) jupyter notebook (german video versions [here](https://vimeo.com/showcase/6910448/video/400175206) and [here](https://vimeo.com/showcase/6910448/video/400261725)). There is also a [longer english video introduction](https://www.youtube.com/watch?v=8h8rQyEpiZA) available.
+**Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Sunday evening. (You can always delete your local copy and redownload/`git pull`.)
 
 ## Tentative schedule
 
 <a href="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRW21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
 
-## Try it out live! (Beta)
+## Run the workshop materials in the browser (Beta)
 
-Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRW21-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaNRW21%26urlpath%3Dtree%252FJuliaNRW21%252F%26branch%3Dmaster) badge to dive right into the workshop materials.
+If, for some reason, you can't install Julia/Jupyter locally, don't worry. You can use the following fallback option and run the workshop materials directly in your  browser (i.e. in the cloud). Just click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaCologne21-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaCologne21%26urlpath%3Dtree%252FJuliaCologne21%252F%26branch%3Dmaster) badge.
