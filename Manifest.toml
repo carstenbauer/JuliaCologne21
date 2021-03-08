@@ -553,12 +553,6 @@ git-tree-sha1 = "8b5552a7a9efc2b0565e2256c919651e6f4e7931"
 uuid = "bcebb21b-c2e3-54f8-a781-646b90f6d2cc"
 version = "0.2.4"
 
-[[KrylovKit]]
-deps = ["LinearAlgebra", "Printf"]
-git-tree-sha1 = "f66c3e1a5fb1433622dcefe4ffa09e11776a095c"
-uuid = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
-version = "0.5.2"
-
 [[LAME_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
 git-tree-sha1 = "df381151e871f41ee86cee4f5f6fd598b8a68826"
