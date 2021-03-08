@@ -4,7 +4,7 @@ pkg"activate ."
 
 println("Installing packages..."); flush(stdout);
 pkg"instantiate"
-pkg"precompile"
+#pkg"precompile"
 
 if v"1.5" <= VERSION < v"1.6"
     println("Installing IJulia.jl into global environment...")
