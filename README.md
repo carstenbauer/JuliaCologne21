@@ -33,7 +33,7 @@ If you are facing any issues you can check out [this troubleshooting section](ht
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
+<a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule_small.png" width=720px></a>
 
 ## Run the workshop materials in the browser (Beta)
 
