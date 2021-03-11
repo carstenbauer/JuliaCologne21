@@ -42,4 +42,6 @@ If, for some reason, you can't install Julia/Jupyter locally, don't worry. You c
 
 ## Hackathon
 
-The Hackathon will take place here on MeetAnyway (instead of Zoom): https://meetanyway.com/events/julia-workshop-hackathon
+The Hackathon will take place here on MeetAnyway (instead of Zoom):
+
+https://meetanyway.com/events/julia-workshop-hackathon
