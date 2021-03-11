@@ -31,10 +31,15 @@ If you are facing any issues you can check out [this troubleshooting section](ht
 
 **Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Sunday evening. (You can always delete your local copy and redownload/`git pull`.)
 
+## Run the workshop materials in the browser (Beta)
+
+If, for some reason, you can't install Julia/Jupyter locally, don't worry. You can use the following fallback option and run the workshop materials directly in your  browser (i.e. in the cloud). Just click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaCologne21-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaCologne21%26urlpath%3Dtree%252FJuliaCologne21%252F%26branch%3Dmaster) badge.
+
+
 ## Tentative schedule
 
 <a href="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaCologne21/raw/master/orga/schedule/schedule_small.png" width=720px></a>
 
-## Run the workshop materials in the browser (Beta)
+## Hackathon
 
-If, for some reason, you can't install Julia/Jupyter locally, don't worry. You can use the following fallback option and run the workshop materials directly in your  browser (i.e. in the cloud). Just click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaCologne21-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaCologne21%26urlpath%3Dtree%252FJuliaCologne21%252F%26branch%3Dmaster) badge.
+The Hackathon will take place here on MeetAnyway (instead of Zoom): https://meetanyway.com/events/julia-workshop-hackathon
